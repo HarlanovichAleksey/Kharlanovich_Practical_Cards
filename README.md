@@ -22,3 +22,6 @@
 - `index.html` — разметка страницы;
 - `css/style.css` — стили и адаптив;
 - `js/script.js` — логика подсчёта стоимости.
+
+## Демо
+🔗 [https://harlanovichaleksey.github.io/Kharlanovich_Practical_Cards/](https://harlanovichaleksey.github.io/Kharlanovich_Practical_Cards/)
